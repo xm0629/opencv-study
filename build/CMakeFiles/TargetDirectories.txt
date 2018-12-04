@@ -1,0 +1,3 @@
+/home/xm/Program/opencv-study/build/CMakeFiles/rebuild_cache.dir
+/home/xm/Program/opencv-study/build/CMakeFiles/opencv-study.dir
+/home/xm/Program/opencv-study/build/CMakeFiles/edit_cache.dir

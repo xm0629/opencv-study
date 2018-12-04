@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opencv-study.dir/main-03-test.cpp.o  -o opencv-study -lopencv_core -lopencv_highgui -lopencv_imgcodecs 
